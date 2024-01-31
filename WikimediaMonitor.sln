@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7ED1FE4D-67C3-46E2-BC4F-DCFE6B3BE8C1}"
 	ProjectSection(SolutionItems) = preProject
 		docker-compose.yml = docker-compose.yml
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WikimediaMonitor.StorageKeeper", "WikimediaMonitor.StorageKeeper\WikimediaMonitor.StorageKeeper.csproj", "{F10FCBAE-E237-45FF-88FA-1D12AE767DF7}"
